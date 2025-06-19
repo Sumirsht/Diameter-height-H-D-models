@@ -5,5 +5,5 @@ This script performs diameter-height modelling using various non-linear models i
 
 📁 Follow this repository for updates, contributions, or to adapt the script for your own forest biometric studies.
 
-👨‍🔬 Created by Sumir Shrestha. Follow this work to support open forestry science and connect for future collaborations.
+👨‍🔬 Created by Sumir Shrestha ((https://www.linkedin.com/in/sumir-shrestha456/)). Follow this work to support open forestry science and connect for future collaborations.
 
